@@ -1,0 +1,18 @@
+{
+  "setup": {
+    "prod": {
+      "nginx": {
+        "sites-enabled": {
+          "path": "nginx/prod/sites-enabled"
+        }
+      }
+    },
+    "dev": {
+      "nginx": {
+        "sites-enabled": {
+          "path": "nginx/dev/sites-enabled"
+        }
+      }
+    }
+  }
+}
