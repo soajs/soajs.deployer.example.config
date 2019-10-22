@@ -14,7 +14,29 @@
       "nginx": {
         "sites-enabled": {
           "path": "nginx/dev/sites-enabled"
-        }
+        },
+        "sites": [
+          {
+            "token": null,
+            "provider": "github",
+            "owner": "soajs",
+            "domain": "www.urac.com",
+            "repo": "spajs.urac",
+            "branch": "master",
+            "commit": null,
+            "folder": "/"
+          },
+          {
+            "token": null,
+            "provider": "github",
+            "owner": "soajs",
+            "domain": "www.dashboard.com",
+            "repo": "soajs.dashboard.ui",
+            "branch": "master",
+            "commit": null,
+            "folder": "/"
+          }
+        ]
       }
     }
   }
