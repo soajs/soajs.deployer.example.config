@@ -22,7 +22,7 @@
               "provider": "github",
               "owner": "soajs",
               "domain": "github.com",
-              "repo": "spajs.urac",
+              "repo": "soajs.urac",
               "branch": "master",
               "commit": null
             },
