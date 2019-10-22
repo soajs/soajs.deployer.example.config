@@ -40,10 +40,6 @@
               "repo": "soajs.dashboard.ui",
               "branch": "master",
               "commit": null
-            },
-            "conf": {
-              "domain": "www.dashboard.com",
-              "folder": "/"
             }
           }
         ]
