@@ -4,6 +4,9 @@
       "nginx": {
         "sites-enabled": {
           "path": "nginx/prod/sites-enabled"
+        },
+        "nginx.conf": {
+          "path": "nginx/prod/nginx.conf"
         }
       }
     },
